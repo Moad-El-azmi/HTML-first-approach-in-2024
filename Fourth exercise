@@ -1,0 +1,84 @@
+<!-- First approach to coding -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage5</title>
+</head>
+
+<body>
+    <div>
+        <ul>
+            <li><a href="/sito5.html">Home</a></li>
+            <li><a href="/modulo5.html">Modulo</a></li>
+            <li><a href="/tabella5.html">Tabella</a></li>
+        </ul>
+    </div>
+
+    <h1>La frutta</h1>
+    <h2>L'importanza della frutta</h2>
+    <h3>Gli usi</h3>
+    <p>Molta frutta è usata commercialmente come cibo, mangiata tale quale o in marmellate e confetture o altri tipi di
+        conserve. Spesso la frutta è anche un ingrediente per vari piatti, specialmente i dolci. Se fresca, in genere,
+        viene mangiata a fine pasto, anche se questa è più che altro solo un'abitudine comune.
+
+        Il consumo di frutta, nei Paesi mediterranei, è tradizionalmente più alto rispetto ai Paesi nordici.
+
+        È provato scientificamente che un adeguato consumo di frutta (e verdura) fresca, riduca notevolmente l'insorgere
+        di numerose malattie</p>
+
+    <h3>Composizione della frutta</h3>
+    <p>La composizione chimica dei frutti dipende dal tipo di frutta e la sua maturazione.
+
+        Acqua: Fra l'80% ed il 95% è costituita da acqua (il cocomero è quello che ne contiene di più, sfiorando il
+        98%).
+        Carboidrati: Tra il 5% e il 20% è costituito da carboidrati. Il contenuto può variare dal 20% nella banana fino
+        al 5% nel melone, anguria e fragole. Altri frutti hanno una media del 10%. Il contenuto di carboidrati può
+        variare a seconda delle specie e anche a seconda del momento della raccolta. I carboidrati sono di solito
+        zuccheri semplici come fruttosio, saccarosio e glucosio, facilmente digeribili e rapidamente assorbiti. Nel
+        frutto acerbo troviamo amido, per esempio nelle banane; la successiva maturazione lo trasforma in zuccheri
+        semplici.
+        Fibra: Circa il 2% del frutto sono fibre alimentari, prevalentemente pectina e emicellulosa. La buccia del
+        frutto è quella con la più alta concentrazione di fibre, ma anche dove si può trovare qualche traccia di
+        contaminanti, quali insetticidi, che sono difficili da rimuovere se non con la pelatura del frutto. Le fibre
+        solubili come la pectina gelificante o la forma di miscele di acqua viscoso[non chiaro]. La viscosità dipende
+        dal frutto da cui proviene e il grado di maturazione. Le pectine pertanto svolgono un ruolo importante per la
+        consistenza del frutto.
+        Vitamine: vitamina A, vitamina C, vitamine del complesso B. Secondo il contenuto di vitamine si possono
+        distinguere due grandi gruppi di frutta:
+        Ricco di vitamina C, contenenti 50/100 mg[non chiaro]. Principalmente cedro, pompelmo, fragole e kiwi.
+        Ricco di vitamina A: sono ricchi di carotenoidi, come albicocche, zucca, susine.
+        Sali minerali: come la verdura, la frutta è ricca di potassio, magnesio, ferro e calcio, mentre il sodio vi è
+        contenuto in quantità pressoché irrilevanti.
+        Proteine e Grassi: composti azotati come proteine e lipidi sono scarse nella parte commestibile di frutti,
+        mentre importanti nei semi di alcuni di loro. Così il contenuto di grasso varia tra lo 0,1 e lo 0,5%, mentre la
+        proteina può essere compreso fra 0,1 e 1,5%. L'avocado contiene acido oleico che è un acido grasso,
+        monoinsaturo, ma la noce di cocco è ricca di grassi saturi come l'acido laurico e miristico.
+        Calorie: Il potere calorifico è determinata dalla sua concentrazione di zucchero, compresi tra il 30-80 kcal/100
+        g. Ci sono anche frutti ricchi di grassi, come l'avocado contenente il 16% di grassi ed il cocco, che può
+        raggiungere il 30%.</p>
+    <hr>
+
+    <h3>Frutta fresca</h3>
+    <p>Normalmente per frutta fresca intendiamo quei prodotti vegetali dolci e profumati che consumiamo a colazione, a
+        merenda o alla fine dei pasti principali. Ma la natura è più complicata di quanto possiamo immaginare dato che
+        in questa famiglia sono compresi anche prodotti dell’orto come le melanzane o i pomodori, mentre sarebbero da
+        escludere le fragole, i fichi e quelli che in genere sono chiamati falsi frutti. Qui la polpa infatti
+        rappresenta una parte del fiore mentre il frutto vero e proprio è costituito, ad esempio, nelle fragole dai
+        puntini gialli presenti in superficie e nei fichi dalle migliaia di granellini posti dentro la parte carnosa.
+    </p>
+
+    <figure>
+        <img src="/images/Frutta.avif" width="600" alt="Immagine di ciliegie fresche">
+        <figcaption>
+            Foto di<a  href="https://unsplash.com/it/@cieloadentro">Roksolana</a>su<a href="https://unsplash.com/it/foto/fotografia-ravvicinata-di-ciliegia-rossa-CR28Ot0ckaE">Unsplash</a>
+        </figcaption>
+    </figure>
+
+
+</body>
+
+</html>
